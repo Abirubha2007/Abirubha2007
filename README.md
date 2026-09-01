@@ -7,7 +7,7 @@
 *Engineering future solutions — one commit at a time.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abirubha.netlify.app-4F46E5?style=for-the-badge&logoColor=white)](https://abirubha.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abirubha-ponnusamy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirubha-ponnusamy-42b511417/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ABIRUBHA_P)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/abirubf658)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirubhaabi@gmail.com)
@@ -143,7 +143,7 @@ Built a **real-time water quality monitoring dashboard** with a fully responsive
 | Certification | Issuer | Year | Link |
 |---------------|--------|------|------|
 | Salesforce Administrator Explorer | Salesforce Trailhead | 2025 | [View ↗](https://drive.google.com/file/d/1mcZXQvaLjbfR-P3WHytupTVa3mcApC6m/view?usp=drive_link) |
-| Python Foundation Certification | Python Institute | 2026 | [View ↗](https://drive.google.com/file/d/16E5kX8RVwNUfRcA6bhfdScSzn47yQ2Ng/view?usp=drive_link-) |
+| Python Foundation Certification | Python Institute | 2026 | [View ↗](https://drive.google.com/file/d/16E5kX8RVwNUfRcA6bhfdScSzn47yQ2Ng/view?usp=drive_link) |
 | Introduction to IoT & Digital Transformation | EdCreate Foundation (Cisco Networking Academy) | 2025 | [View ↗](https://drive.google.com/file/d/1-bbGR2sxj78EoWUDKnxjDwocTs2ksnza/view?usp=drive_link) |
 
 ---
@@ -152,9 +152,9 @@ Built a **real-time water quality monitoring dashboard** with a fully responsive
 
 <div align="center">
 
-![Abirubha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abirubha2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Abirubha2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Abirubha's GitHub Stats" onerror="this.style.display='none'" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abirubha2007&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abirubha2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" onerror="this.style.display='none'" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abirubha2007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -169,7 +169,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4F46E5?style=for-the-badge)](https://abirubha.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abirubha-ponnusamy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirubha-ponnusamy-42b511417/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abirubha2007)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abirubhaabi@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-34D399?style=for-the-badge)](https://drive.google.com/drive/folders/1R6Mh-dxjEts33x-fuArummsr9cwJHyGW?usp=sharing)
