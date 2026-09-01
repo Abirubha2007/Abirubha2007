@@ -148,20 +148,6 @@ Built a **real-time water quality monitoring dashboard** with a fully responsive
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="Abirubha's GitHub Stats" width="495" />
-
-<img src="./github-metrics-languages.svg" alt="Top Languages" width="350" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abirubha2007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
