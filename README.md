@@ -152,9 +152,9 @@ Built a **real-time water quality monitoring dashboard** with a fully responsive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abirubha2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Abirubha's GitHub Stats" onerror="this.style.display='none'" />
+<img src="./github-metrics.svg" alt="Abirubha's GitHub Stats" width="495" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abirubha2007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" onerror="this.style.display='none'" />
+<img src="./github-metrics-languages.svg" alt="Top Languages" width="350" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abirubha2007&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
